@@ -6,6 +6,7 @@ Welcome to my profile!
 
 ---
 #### Books I recommend:
+- A Philosophy of Software Design, by John K. Ousterhout
 - Refactoring 2nd Edition, by Fowler
 - Fluent Python, by Ramalho
 - Terraform Up & Running, by Birkman
